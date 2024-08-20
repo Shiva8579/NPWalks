@@ -1,0 +1,6 @@
+@NPWalksAPI_HostAddress = http://localhost:5265
+
+GET {{NPWalksAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
